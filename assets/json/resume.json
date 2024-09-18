@@ -1,35 +1,38 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ahatesham Bhuiyan",
+    "label": "Prospective PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ahateshambh@gmail.com",
+    "phone": "+8801724143952",
+    "url": "https://ahatesham02.github.io/",
+    "summary": "Passionate about attention mechanisms, language models, computer vision, and multimodal learning, I am driven to
+explore the intersection of these fields in pursuit of innovative solutions. With a robust data analysis and machine
+learning background, I am eager to embark on advanced studies to delve deeper into these areas and contribute to
+groundbreaking research endeavors.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Radio Colony, Savar, Dhaka",
+      "postalCode": "Savar- 1340",
+      "city": "Dhaka",
+      "countryCode": "BAN",
+      "region": "Dhaka"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
+        "network": "",
+        "username": "",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "City University",
+      "position": "Lecturer in the dept. of Electrical and Electronic Engineering",
+      "url": "https://www.cityuniversity.edu.bd/faculty?teacher=282",
+      "startDate": "2023-08-05",
+      "endDate": "",
+      "summary": "",
       "highlights": ["Relativity"]
     }
   ],
