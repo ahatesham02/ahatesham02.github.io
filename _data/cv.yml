@@ -5,8 +5,11 @@
       value: Ahatesham Bhuiyan
     - name: Date of Birth
       value: 5th January 1999
+    - name: Email
+      value: ahateshambh@gmail.com
     - name: Languages
       value: English, Bangla, Hindi
+      
 
 - title: Education
   type: time_table
