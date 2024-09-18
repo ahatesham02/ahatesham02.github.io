@@ -73,6 +73,30 @@
       "date": "2023-04-01",
       "awarder": "Chittagong University of Engineering & Technology",
       "summary": "Awarded for obtaining the second highest GPA in the last academic year."
+    },
+    {
+      "title": "Datathon 2.0 (Second Round)",
+      "date": "2022-06-01",
+      "awarder": "Robi Axiata Limited",
+      "summary": "Reached the second round of Datathon 2.0."
+    },
+    {
+      "title": "NLP Hackathon (First Round Cleared)",
+      "date": "2023-01-01",
+      "awarder": "Bangladesh Open Source Network - BdOSN",
+      "summary": "Cleared the first round of the NLP Hackathon."
+    },
+    {
+      "title": "Runner Up",
+      "date": "2015-01-01",
+      "awarder": "Chemistry Olympiad, Notre Dame College",
+      "summary": "Achieved Runner Up position at Chemistry Olympiad, Notre Dame College."
+    },
+    {
+      "title": "Government Scholarship",
+      "date": "2010-2017",
+      "awarder": "Dhaka Board, Bangladesh",
+      "summary": "Awarded government scholarships for excellence in Primary, Secondary, and Higher Secondary exams."
     }
   ],
   "certificates": [
@@ -152,7 +176,7 @@
   "interests": [
     {
       "name": "Natural Language Processing",
-      "keywords": ["Attention Mechanisms", "Language Models", "Text Processing"]
+      "keywords": ["Attention Mechanisms", "Language Models", "Text Processing", "Generative AI", "LLMs", "LangChain"]
     },
     {
       "name": "Computer Vision",
