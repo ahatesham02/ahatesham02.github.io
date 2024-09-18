@@ -166,11 +166,15 @@
   "references": [
     {
       "name": "Professor Eftekhar Hossain",
+      "email": "eftekhar.hossain@cuet.ac.bd",
+      "designation": "Assistant Professor, Electronics and Telecommunication Engineering, Chittagong University of Engineering & Technology",
       "reference": "Thesis Supervisor at Chittagong University of Engineering & Technology."
     },
     {
       "name": "Dr. Md. Saiful Islam",
-      "reference": "Associate Professor at Chittagong University of Engineering & Technology."
+      "email": "saiful05eee@cuet.ac.bd",
+      "designation": "Associate Professor, Electronics and Telecommunication Engineering, Chittagong University of Engineering & Technology",
+      "reference": "Course Teacher at Chittagong University of Engineering & Technology."
     }
   ],
   "projects": [
