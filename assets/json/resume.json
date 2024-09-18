@@ -37,14 +37,18 @@
       "highlights": ["Supervising NLP and machine learning projects", "Guiding students in research"]
     }
   ],
-  "volunteer": [
+  "interests": [
     {
-      "organization": "CUET Career Club",
-      "location": "Chittagong, Bangladesh",
-      "position": "Executive Member",
-      "startDate": "2021-01-01",
-      "endDate": "2022-12-31",
-      "summary": "Helped organize events and workshops to enhance students' career skills."
+      "name": "Natural Language Processing",
+      "keywords": ["Attention Mechanisms", "Language Models", "Text Processing", "Generative AI", "LLMs", "LangChain"]
+    },
+    {
+      "name": "Computer Vision",
+      "keywords": ["Scene Understanding", "Object Detection", "Medical Image"]
+    },
+    {
+      "name": "Multimodal Learning",
+      "keywords": ["Combining Text and Visual Data", "Meme Detection"]
     }
   ],
   "education": [
@@ -65,6 +69,34 @@
       "studyType": "Higher Secondary School Certificate",
       "endDate": "2017-12-31",
       "score": "GPA: 5.00/5.00"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Enhancing Image Caption Generation Through Context-Aware Attention Mechanism",
+      "publisher": "Heliyon",
+      "releaseDate": "2024-09-15",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e36272",
+      "summary": "This paper demonstrates the superiority of incorporating ResNet-50 and a context-aware attention network over the conventional encoder-decoder architecture in Bangla image captioning."
+    },
+    {
+      "name": "A Text-Enhanced Multimodal Fusion Network for Disaster Response",
+      "releaseDate": "",
+      "summary": "Proposes a multimodal architecture combining ResNet50 and a multi-head attention-based transformer (BERT) model for classifying damage-related posts using visual and textual information."
+    }
+  ],
+  "projects": [
+    {
+      "name": "News Classifier",
+      "summary": "Implemented Naive Bayes algorithm and LSTM for detecting fake news from the Twitter dataset of the USA Presidential Election 2020.",
+      "startDate": "2022-08-01",
+      "url": "https://github.com/ahatesham02/News-Classifier"
+    },
+    {
+      "name": "Indian Food Image Classifications",
+      "summary": "Implemented a custom CNN and pre-trained models (VGG16, InceptionResNetV2) for food image classification.",
+      "startDate": "2021-10-01",
+      "url": "https://www.kaggle.com/code/ahateshambhuiyan/indian-food-image-classification"
     }
   ],
   "awards": [
@@ -99,6 +131,31 @@
       "summary": "Awarded government scholarships for excellence in Primary, Secondary, and Higher Secondary exams."
     }
   ],
+  "volunteer": [
+    {
+      "organization": "CUET Career Club",
+      "location": "Chittagong, Bangladesh",
+      "position": "Executive Member",
+      "startDate": "2021-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Helped organize events and workshops to enhance students' career skills."
+    },
+    {
+      "organization": "ETE DecaHertz, CUET",
+      "location": "Chittagong, Bangladesh",
+      "position": "Finance Secretary",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Managed the finances of the departmental club, organized events and workshops for students."
+    },
+    {
+      "organization": "Exam Committee, Dept. of EEE, City University",
+      "location": "Dhaka, Bangladesh",
+      "position": "Executive Member",
+      "startDate": "2023-08-01",
+      "summary": "Assisted in organizing and managing departmental exams and academic activities."
+    }
+  ],
   "certificates": [
     {
       "name": "Natural Language Processing with Classification and Vector Spaces",
@@ -131,20 +188,6 @@
       "url": "https://www.coursera.org/account/accomplishments/certificate/SJYEM7Z3CN3L"
     }
   ],
-  "publications": [
-    {
-      "name": "Enhancing Image Caption Generation Through Context-Aware Attention Mechanism",
-      "publisher": "Heliyon",
-      "releaseDate": "2024-01-01",
-      "url": "https://doi.org/10.1016/j.heliyon.2024.e36272",
-      "summary": "This paper demonstrates the superiority of incorporating ResNet-50 and a context-aware attention network over the conventional encoder-decoder architecture in Bangla image captioning."
-    },
-    {
-      "name": "A Text-Enhanced Multimodal Fusion Network for Disaster Response",
-      "releaseDate": "2024-01-01",
-      "summary": "Proposes a multimodal architecture combining ResNet50 and a multi-head attention-based transformer (BERT) model for classifying damage-related posts using visual and textual information."
-    }
-  ],
   "skills": [
     {
       "name": "Programming Languages",
@@ -157,6 +200,14 @@
     {
       "name": "IDEs",
       "keywords": ["Google Colab", "PyCharm", "VS Code", "Jupyter Notebook"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["Machine Learning", "CNN", "LSTM", "GRU", "Transformers", "Large Language Models"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Cisco Packet Tracer", "Cadence", "Wireshark", "Git", "LaTeX"]
     }
   ],
   "languages": [
@@ -173,20 +224,6 @@
       "fluency": "Conversational"
     }
   ],
-  "interests": [
-    {
-      "name": "Natural Language Processing",
-      "keywords": ["Attention Mechanisms", "Language Models", "Text Processing", "Generative AI", "LLMs", "LangChain"]
-    },
-    {
-      "name": "Computer Vision",
-      "keywords": ["Image Captioning", "Object Detection"]
-    },
-    {
-      "name": "Multimodal Learning",
-      "keywords": ["Combining Text and Visual Data", "Disaster Response Classification"]
-    }
-  ],
   "references": [
     {
       "name": "Professor Eftekhar Hossain",
@@ -199,20 +236,6 @@
       "email": "saiful05eee@cuet.ac.bd",
       "designation": "Associate Professor, Electronics and Telecommunication Engineering, Chittagong University of Engineering & Technology",
       "reference": "Course Teacher at Chittagong University of Engineering & Technology."
-    }
-  ],
-  "projects": [
-    {
-      "name": "News Classifier",
-      "summary": "Implemented Naive Bayes algorithm and LSTM for detecting fake news from the Twitter dataset of the USA Presidential Election 2020.",
-      "startDate": "2022-08-01",
-      "url": "https://github.com/ahatesham02/News-Classifier"
-    },
-    {
-      "name": "Indian Food Image Classifications",
-      "summary": "Implemented a custom CNN and pre-trained models (VGG16, InceptionResNetV2) for food image classification.",
-      "startDate": "2021-10-01",
-      "url": "https://www.kaggle.com/code/ahateshambhuiyan/indian-food-image-classification"
     }
   ]
 }
