@@ -5,8 +5,6 @@
       value: Ahatesham Bhuiyan
     - name: Date of Birth
       value: 5th January 1999
-    - name: Email
-      value: ahateshambh@gmail.com
     - name: Languages
       value: English, Bangla, Hindi
 
@@ -119,3 +117,24 @@
     - title: SQL: A Practical Introduction for Querying Databases
       year: July 2023
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Natural Language Processing
+      items:
+        - Attention Mechanisms
+        - Language Models
+        - Text Processing
+    - title: Computer Vision
+      items:
+        - Image Captioning
+        - Object Detection
+    - title: Multimodal Learning
+      items:
+        - Combining Text and Visual Data
+        - Disaster Response Classification
+
+- title: Other Interests
+  type: list
+  contents:
+    - Hobbies: Reading, Traveling, Programming
