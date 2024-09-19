@@ -1,5 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I'm Ahatesham Bhuiyan, currently a Lecturer in the Department of Electrical and Electronic Engineering at [City University](https://www.cityuniversity.edu.bd/), Dhaka, Bangladesh. I completed my B.Sc. in Electronics and Telecommunication Engineering (ETE) from [Chittagong University of Engineering and Technology (CUET)](https://www.cuet.ac.bd/) in 2023. I am passionate about attention mechanisms, large language models, computer vision, and multimodal learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on natural language processing and computer vision, with publications in international journals such as Heliyon, where I worked on enhancing image caption generation using a context-aware attention mechanism. I have also submitted a paper on a text-enhanced multimodal fusion network for disaster response, demonstrating my ongoing commitment to research and innovation.
+
+Feel free to explore my research and projects on my [GitHub](https://github.com/ahatesham02) or connect with me on [LinkedIn](https://www.linkedin.com/in/ahatesham-bhuiyan-4b5927169/)!
