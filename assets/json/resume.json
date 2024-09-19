@@ -31,10 +31,10 @@
     {
       "name": "City University, Dhaka",
       "position": "Lecturer, Dept. of Electrical and Electronic Engineering",
-      "url": "https://example.com",
+      "url": "https://www.cityuniversity.edu.bd/faculty?teacher=282",
       "startDate": "2023-08-01",
-      "summary": "Teaching courses related to Electrical and Electronic Engineering, supervising undergraduate projects and thesis works.",
-      "highlights": ["Supervising NLP and machine learning projects", "Guiding students in research"]
+      "summary": "Teaching courses related to Communication and programming, supervising undergraduate projects, Grade assignments and tests",
+      "highlights": []
     }
   ],
   "interests": [
@@ -58,16 +58,16 @@
       "url": "https://www.cuet.ac.bd/",
       "area": "Electronics and Telecommunication Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "2018-01-01",
+      "startDate": "2018-01-25",
       "endDate": "2023-05-01",
       "score": "3.79/4.00",
-      "courses": ["Signal Processing", "Machine Learning", "Telecommunication"]
+      "courses": []
     },
     {
       "institution": "Notre Dame College",
       "location": "Dhaka, Bangladesh",
       "studyType": "Higher Secondary School Certificate",
-      "endDate": "2017-12-31",
+      "endDate": "2017-05-31",
       "score": "GPA: 5.00/5.00"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "name": "A Text-Enhanced Multimodal Fusion Network for Disaster Response",
-      "releaseDate": "",
+      "releaseDate": "In Submission",
       "summary": "Proposes a multimodal architecture combining ResNet50 and a multi-head attention-based transformer (BERT) model for classifying damage-related posts using visual and textual information."
     }
   ],
@@ -226,7 +226,7 @@
   ],
   "references": [
     {
-      "name": "Professor Eftekhar Hossain",
+      "name": "Eftekhar Hossain",
       "email": "eftekhar.hossain@cuet.ac.bd",
       "designation": "Assistant Professor, Electronics and Telecommunication Engineering, Chittagong University of Engineering & Technology",
       "reference": "Thesis Supervisor at Chittagong University of Engineering & Technology."
