@@ -1,12 +1,32 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Teaching Overview
 
-Organize your courses by years, topics, or universities, however you like!
+I am responsible for preparing lab materials, grading weekly assignments, class tests, and final exams for various undergraduate courses. Additionally, I conduct both theory and lab sessions. Below is an outline of the courses I have taught and will be teaching in upcoming semesters at the **Department of Electrical and Electronic Engineering, City University**.
+
+## Fall 2023
+- **CN 403** - Optical Fiber Communication
+- **EEE 301** - Electronics I
+- **CN 402** - Telecommunication Engineering Sessional
+- **EEE 302** - Electronics I Laboratory
+- **EEE 302** - Electronics II
+
+## Spring 2024
+- **CN 403** - Optical Fiber Communication
+- **EEE 101** - Fundamentals of Electrical Engineering
+- **EEE 102** - Fundamentals of Electrical Engineering Sessional
+- **CSE 412** - Digital System Design Laboratory
+- **CSE 111** - Fundamentals of Computer Programming
+
+## Fall 2024
+- **CN 405** - Cellular and Mobile Communication
+- **EEE 315** - Communication Theory
+- **CSE 412** - Digital System Design Laboratory
+- **CN 402** - Telecommunication Engineering Sessional
