@@ -3,7 +3,7 @@ layout: page
 title: Indian Food Image Classification
 description: 
 img: assets/img/featured_food.png
-redirect: https://unsplash.com
+redirect: https://www.kaggle.com/code/ahateshambhuiyan/indian-food-image-classification
 importance: 3
 category: work
 ---
