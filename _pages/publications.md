@@ -11,7 +11,6 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=n6btclwAAAAJ
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
 
 <div class="publications">
 
