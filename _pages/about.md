@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Ahatesham Bhuiyan**, a first-year Ph.D. student in the Department of Computer Science at the [University of Central Florida (UCF)](https://www.cs.ucf.edu/), where I work as a **Graduate Research Assistant** in the **Unbounded AI Lab** under [Dr. Mengxin Zheng](https://www.cs.ucf.edu/).
+Hi, I'm **Ahatesham Bhuiyan**, a first-year Ph.D. student in the Department of Computer Science at the [University of Central Florida (UCF)](https://www.ucf.edu), where I work as a **Graduate Research Assistant** in the **Unbounded AI Lab** under [Dr. Mengxin Zheng](https://mxzheng.github.io).
 
 My research focuses on **machine learning security**, **natural language processing**, and the broader question of how to build **trustworthy AI** systems. I'm particularly interested in adversarial robustness, data privacy, and the security of large language models (LLMs). I also follow work on quantum computing and quantum security as adjacent areas where many of these questions resurface.
 
