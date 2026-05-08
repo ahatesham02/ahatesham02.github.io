@@ -11,54 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, University of Central Florida — *Aug 2025 – Jul 2029 (expected)*
+* **B.Sc. in Electronics and Telecommunication Engineering**, Chittagong University of Engineering and Technology (CUET) — *2018 – 2023*
+* **H.S.C. in Science**, Notre Dame College, Dhaka — *2015 – 2017*
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Research Assistant**, University of Central Florida — *Aug 2025 – Present*
+  * Unbounded AI Lab, advised by Dr. Mengxin Zheng
+  * Research focus: machine learning security, NLP, trustworthy AI
+  * Orlando, Florida
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Lecturer**, Department of Electrical and Electronic Engineering, City University, Dhaka, Bangladesh — *Aug 2023 – Jul 2025* (currently on study leave)
+  * Taught undergraduate courses in EEE
+  * Dhaka, Bangladesh
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Research Interests
+======
+* Machine Learning Security — adversarial robustness, model integrity, trustworthy AI
+* Natural Language Processing & Large Language Models
+* Data Privacy in AI — privacy-preserving machine learning
+* Multimodal Learning — vision-language models, attention mechanisms
+* Quantum Computing & Quantum Security (interest area)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Top areas**: Data Privacy · Artificial Intelligence · Large Language Models
+* **Programming**: Python, C/C++, MATLAB
+* **Frameworks**: PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
+* **Domains**: Deep Learning, NLP, Computer Vision, ML Security
+
+Certifications
+======
+* Natural Language Processing with Classification and Vector Spaces — *DeepLearning.AI / Coursera*
+* Convolutional Neural Networks — *DeepLearning.AI / Coursera*
+* Introduction to Data Engineering
+* Programming for Everybody (Getting Started with Python) — *University of Michigan / Coursera*
+* Cisco CCNA
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Contact
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: [ahatesham.bhuiyan@ucf.edu](mailto:ahatesham.bhuiyan@ucf.edu)
+* LinkedIn: [ahateshambhuiyan-4b5927169](https://www.linkedin.com/in/ahateshambhuiyan-4b5927169)
+* Google Scholar: [profile](https://scholar.google.com/citations?user=n6btclwAAAAJ&hl=en)
