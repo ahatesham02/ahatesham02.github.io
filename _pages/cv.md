@@ -27,11 +27,9 @@ Experience
 
 Research Interests
 ======
-* Machine Learning Security — adversarial robustness, model integrity, trustworthy AI
-* Natural Language Processing & Large Language Models
-* Data Privacy in AI — privacy-preserving machine learning
-* Multimodal Learning — vision-language models, attention mechanisms
-* Quantum Computing & Quantum Security (interest area)
+* **Quantum Computing & Quantum Security** *(current focus)* — secure quantum machine learning, hardware-aware security
+* **Machine Learning Security** — adversarial robustness, model integrity
+* **Trustworthy AI** — reliability, safety, and accountability of AI systems
 
 Skills
 ======

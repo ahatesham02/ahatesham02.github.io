@@ -9,22 +9,20 @@ redirect_from:
 
 Hi, I'm **Ahatesham Bhuiyan**, a first-year Ph.D. student in the Department of Computer Science at the [University of Central Florida (UCF)](https://www.ucf.edu), where I work as a **Graduate Research Assistant** in the **Unbounded AI Lab** under [Dr. Mengxin Zheng](https://mxzheng.github.io).
 
-My research focuses on **machine learning security**, **natural language processing**, and the broader question of how to build **trustworthy AI** systems. I'm particularly interested in adversarial robustness, data privacy, and the security of large language models (LLMs). I also follow work on quantum computing and quantum security as adjacent areas where many of these questions resurface.
+My current research focuses on **quantum computing** and **quantum security** — understanding vulnerabilities of quantum machine learning systems and designing hardware-aware security mechanisms for the quantum stack. Alongside this, I have a strong interest in **machine learning security** and **trustworthy AI** more broadly, including adversarial robustness, data privacy, and the security of large-scale AI systems.
 
-Before joining UCF, I served as a **Lecturer** in the Department of Electrical and Electronic Engineering at [City University, Dhaka, Bangladesh](https://www.cityuniversity.edu.bd/) (currently on study leave). I earned my **B.Sc. in Electronics and Telecommunication Engineering (ETE)** from [Chittagong University of Engineering and Technology (CUET)](https://www.cuet.ac.bd/) in 2023, where my undergraduate research focused on natural language processing and computer vision — including context-aware attention mechanisms for image caption generation and multimodal learning.
+Before joining UCF, I served as a **Lecturer** in the Department of Electrical and Electronic Engineering at [City University, Dhaka, Bangladesh](https://eee.cityuniversity.ac.bd/faculty?teacher=282) (currently on study leave). I earned my **B.Sc. in Electronics and Telecommunication Engineering (ETE)** from [Chittagong University of Engineering and Technology (CUET)](https://cuet.ac.bd) in 2023, where my undergraduate research focused on natural language processing and computer vision — including context-aware attention mechanisms for image caption generation and multimodal learning.
 
 ## Research Interests
 
+- **Quantum Computing & Quantum Security** 
 - **Machine Learning Security** — adversarial robustness, model integrity, trustworthy AI
-- **Natural Language Processing & LLMs** — language model security, multimodal learning
-- **Data Privacy in AI** — privacy-preserving machine learning, secure inference
-- **Quantum Computing & Quantum Security** — secure quantum machine learning (interest area)
+
 
 ## Education
 
 - **Ph.D. in Computer Science**, University of Central Florida — *Aug 2025 – Jul 2029 (expected)*
 - **B.Sc. in Electronics and Telecommunication Engineering**, Chittagong University of Engineering and Technology (CUET) — *2018 – 2023*
-- **H.S.C. in Science**, Notre Dame College, Dhaka — *2015 – 2017*
 
 ## Experience
 
