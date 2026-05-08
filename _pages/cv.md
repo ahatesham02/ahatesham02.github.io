@@ -13,7 +13,6 @@ Education
 ======
 * **Ph.D. in Computer Science**, University of Central Florida — *Aug 2025 – Jul 2029 (expected)*
 * **B.Sc. in Electronics and Telecommunication Engineering**, Chittagong University of Engineering and Technology (CUET) — *2018 – 2023*
-* **H.S.C. in Science**, Notre Dame College, Dhaka — *2015 – 2017*
 
 Experience
 ======
