@@ -24,7 +24,7 @@ Experience
 
 * **Graduate Research Assistant**, University of Central Florida — *Aug 2025 – May 2026*
   * Unbounded AI Lab, advised by Dr. Mengxin Zheng
-  * Research focus: machine learning security, NLP, trustworthy AI
+  * Research focus: quantum computing security, machine learning security, trustworthy AI
   * Orlando, Florida
 
 * **Lecturer**, Department of Electrical and Electronic Engineering, City University, Dhaka, Bangladesh — *Aug 2023 – Jul 2025* (currently on study leave)
