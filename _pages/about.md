@@ -41,4 +41,4 @@ Before joining UCF, I served as a **Lecturer** in the Department of Electrical a
 
 ## Get in touch
 
-Feel free to reach out at [ahatesham.bhuiyan@ucf.edu](mailto:ahatesham.bhuiyan@ucf.edu) — I'm always happy to discuss research collaborations, opportunities, or interesting ideas in ML security and NLP.
+Feel free to reach out at [ahatesham.bhuiyan@ucf.edu](mailto:ahatesham.bhuiyan@ucf.edu) — I'm always happy to discuss research collaborations, opportunities, or interesting ideas in quantum computing security and machine learning security.
