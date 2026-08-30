@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Ahatesham Bhuiyan**, a first-year Ph.D. student in the Department of Computer Science at the [University of Central Florida (UCF)](https://www.ucf.edu), where I work as a **Graduate Research Assistant** in the **Unbounded AI Lab** under [Dr. Mengxin Zheng](https://mxzheng.github.io).
+Hi, I'm **Ahatesham Bhuiyan**, a first-year Ph.D. student in the Department of Computer Science at the [University of Central Florida (UCF)](https://www.ucf.edu), currently working as a **Graduate Teaching Assistant**. I previously served as a **Graduate Research Assistant** in the **Unbounded AI Lab** under [Dr. Mengxin Zheng](https://mxzheng.github.io).
 
 My current research focuses on **quantum computing** and **quantum security** — understanding vulnerabilities of quantum machine learning systems and designing hardware-aware security mechanisms for the quantum stack. Alongside this, I have a strong interest in **machine learning security** and **trustworthy AI** more broadly, including adversarial robustness, data privacy, and the security of large-scale AI systems.
 
@@ -26,7 +26,9 @@ Before joining UCF, I served as a **Lecturer** in the Department of Electrical a
 
 ## Experience
 
-- **Graduate Research Assistant**, University of Central Florida — *Aug 2025 – Present*
+- **Graduate Teaching Assistant**, University of Central Florida — *Aug 2026 – Present*
+- **Graduate Teaching Assistant (Grader)**, University of Central Florida — *May 2026 – Aug 2026*
+- **Graduate Research Assistant**, University of Central Florida — *Aug 2025 – May 2026*
 - **Lecturer**, Department of Electrical and Electronic Engineering, City University, Dhaka, Bangladesh — *Aug 2023 – Jul 2025* (on study leave)
 
 ## News

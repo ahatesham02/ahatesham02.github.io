@@ -16,7 +16,13 @@ Education
 
 Experience
 ======
-* **Graduate Research Assistant**, University of Central Florida — *Aug 2025 – Present*
+* **Graduate Teaching Assistant**, University of Central Florida — *Aug 2026 – Present*
+  * Orlando, Florida
+
+* **Graduate Teaching Assistant (Grader)**, University of Central Florida — *May 2026 – Aug 2026*
+  * Orlando, Florida
+
+* **Graduate Research Assistant**, University of Central Florida — *Aug 2025 – May 2026*
   * Unbounded AI Lab, advised by Dr. Mengxin Zheng
   * Research focus: machine learning security, NLP, trustworthy AI
   * Orlando, Florida
@@ -48,7 +54,7 @@ Certifications
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% assign sorted_publications = site.publications | sort: 'date' | reverse %}{% for post in sorted_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
