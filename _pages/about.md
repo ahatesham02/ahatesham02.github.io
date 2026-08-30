@@ -33,6 +33,8 @@ Before joining UCF, I served as a **Lecturer** in the Department of Electrical a
 
 ## News
 
+- **Jul 21, 2026** — "Hardware Robustness of Sample-Based Quantum Diagonalization" accepted at the QCE'26 2nd Workshop on Quantum Computing Security, Privacy & Resilience (Q-Sec).
+- **Jul 20, 2026** — "CutBackdoor: A Circuit Cut Triggered Backdoor Attack on Variational Quantum Algorithms" posted on [arXiv](https://arxiv.org/abs/2607.18126).
 - **Aug 2025** — Joined the Unbounded AI Lab at UCF as a Graduate Research Assistant.
 - **Aug 2023** — Started as a Lecturer in EEE at City University, Dhaka.
 - **2023** — Completed B.Sc. in ETE at CUET.
